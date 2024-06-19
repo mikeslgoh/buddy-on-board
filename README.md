@@ -1,9 +1,10 @@
 # Documentation
-Initial idea for the project was to serve as an 
+You can run tests by running `main.py` where it'll save the data found into the local directory. The commented out functions will help with cleaning up the data as well sync the Bedrock knowledge base and allowing you to query the bot from your code
+
 # Resources
-https://repost.aws/questions/QUyEzvSFF2Q4iGm8M7mCSe8A/amazon-bedrock-knowledgebase-does-knowledge-base-support-json-files-in-s3
-https://medium.com/@mahmood1/slack-ai-bot-with-aws-bedrock-f95e7997a666
-https://medium.com/@18bhavyasharma/exploring-the-power-of-amazon-bedrock-services-on-aws-cloud-with-cohere-models-03a0bcdd2077#:~:text=With%20Amazon%20Bedrock%2C%20developers%20can,privacy%2C%20and%20responsible%20AI%20practices.
+* https://repost.aws/questions/QUyEzvSFF2Q4iGm8M7mCSe8A/amazon-bedrock-knowledgebase-does-knowledge-base-support-json-files-in-s3
+* https://medium.com/@mahmood1/slack-ai-bot-with-aws-bedrock-f95e7997a666
+* https://medium.com/@18bhavyasharma/exploring-the-power-of-amazon-bedrock-services-on-aws-cloud-with-cohere-models-03a0bcdd2077#:~:text=With%20Amazon%20Bedrock%2C%20developers%20can,privacy%2C%20and%20responsible%20AI%20practices.
 
 # Things that were done:
 
