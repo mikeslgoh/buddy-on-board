@@ -1,0 +1,71 @@
+key,title,type
+ABU,AP Business Unit,software
+SEC,Security Operations,software
+OPS,Operations,software
+APA,AP Applications,software
+CLOUD,SE Cloud Operations,software
+SRE,Site Reliability Engineering,software
+TI,Technical Initiative,software
+NET,Network,software
+SYSOP,SysOps,software
+PA,Product Analytics,software
+CONS,Consumer (Absolute),software
+UA,User Awareness,software
+AI,Absolute Initiative,software
+PER,Persistence,software
+A5SF,A5 Salesforce,software
+IDEA,Absolute Ideas,software
+ABL,Absolute Script Library,software
+ARF,Agent Refactor,software
+UAT,Atlassian Cloud UAT,software
+ATR,Atlassian Tools Requests,software
+AC,Audit & Compliance,software
+BAP,Business Applications,software
+CRIT,Crossfunctional Release and Remediation Team,software
+DI,Data Intelligence,software
+DW,Data Warehouse,software
+DEP,Deployment,software
+DT,DeployTest,software
+FIN,Finance,software
+ABS,Absolute,software
+HI,Hackathon Ideas,software
+HMU,Hotfix Mock Up,software
+HOT,Hotfix Tracker,software
+JT,Joaquin Test ,software
+SCT,New Salesforce Connector Test,software
+OEM,OEM Timeline,software
+PEN,Pendo,software
+PDM,Product Management,software
+PI,Production Initiative,software
+PS,Professional Services,software
+PMI,Program Management Initiatives,software
+SNG,Sales Engineering,software
+SJCM,Salesforce Jira Cloud Migration,software
+SIE,Security (SIEM),software
+UX,UX Work Pipeline,software
+VRA,Vendor Risk Assessments,software
+BDO,BuildDevOps,software
+CFR,Customer Feature Requests,software
+COPS,SA Cloud Operations,software
+IRP,INXS Customer Upgrade Planning,software
+LAB,Development Lab,software
+ITA,IT Applications,software
+KAI,Known Adapter Issues,software
+MIQ,Mobile IQ,software
+LOC,Locality,software
+PART,Partner,software
+PSR,Performance & Scalability Resources,software
+QFE,Quick Fix Engineering,software
+SPL,SaaS Product Launch,software
+ZTNA,App Connector,software
+MOB,Mobility,software
+SSTP,Shiva Script Test Project,software
+NPA,Non-Project Activities,software
+XRAY,Xray,software
+SEI,Secure Endpoint Ideas,product_discovery
+SSP,Sample Scrum Project,software
+JPD,JPD test,product_discovery
+GENAI,Gen AI,software
+SSPA,Sample Scrum Project A,software
+SAI,Secure Access Ideas,product_discovery
+ATI,Absolute Tools Ideas,product_discovery
