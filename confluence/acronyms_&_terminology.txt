@@ -1,14 +1,1 @@
-{'id': '62234828', 'title': 'Acronyms & Terminology', 'link': 'https://myabsolute.atlassian.net/wiki/rest/api/content/62234828', 'contents': ['table'], 'table':           Acronym                                                   
-0   AFT I, AFT II  Absolute Forensic Tools- keystroke capture- sc...
-1             ANS                                         Any Script
-2              AP                            Application Persistence
-3             ARF        Agent Refactor project. Also known as: RTA.
-4             AVP               Anti-Virus Protection (Anti Malware)
-..            ...                                                ...
-72            URP                               User Role Permission
-73           TRMS                   Theft Recovery Management System
-74            URP                       Users, Roles, and Permission
-75            WMA                               Web monitoring agent
-76             WS  Web Service (always refer to the IP address "s...
 
-[77 rows x 2 columns]}
